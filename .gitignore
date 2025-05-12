@@ -1,0 +1,6 @@
+*.pyc
+*.env
+app/dump
+app/__pycache__
+web_service_deployment.md
+data/
