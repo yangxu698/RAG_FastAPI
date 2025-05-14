@@ -1,6 +1,6 @@
 # Quick Read
 
-The the app has been deployed here[https://yangxu698.github.io/].
+The app has been deployed here: [https://yangxu698.github.io/].
 
 ## About the Repo
 1. This repo is a framework employing LangChain, Faiss and FastAPI for RAG development.
