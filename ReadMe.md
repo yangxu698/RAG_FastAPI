@@ -1,6 +1,7 @@
 # Quick Read
 
 The app has been deployed here: [https://yangxu698.github.io/].
+Note: If the web service hasn't been active recently, it might take about 1 minute to fully start up.
 
 ## About the Repo
 1. This repo is a framework employing LangChain, Faiss and FastAPI for RAG development.
@@ -9,8 +10,8 @@ The app has been deployed here: [https://yangxu698.github.io/].
     ```
     docker build -t [your docker app name] .
     ```
-4. The retriever uses the *gemini-embedding-exp-03-07* for context embedding, and *gemini-2.0-flash* for query parsing and response., both can be replace with desired model, e.g. OpenAI ChatGPT.
-5. To run the RAG app, you need to creat .env in the root directory, with the Gemini API as:
+4. The retriever uses the *gemini-embedding-exp-03-07* for context embedding, and *gemini-2.0-flash* for query parsing and response., both can be replaced with desired model, e.g. OpenAI ChatGPT.
+5. To run the RAG app, you need to creat .env in the root directory, with the Gemini_API_KEY as:
 ```
 GOOGLE_API_KEY='***'
 ```
