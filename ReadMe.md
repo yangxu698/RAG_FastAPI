@@ -1,6 +1,7 @@
 # Quick Read
 
 The app has been deployed here: [https://yangxu698.github.io/].
+
 Note: If the web service hasn't been active recently, it might take about 1 minute to fully start up.
 
 ## About the Repo
